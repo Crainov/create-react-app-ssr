@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.App .productRow {
+  padding: 1rem 10rem;
+}
+
+.App img.mainImage {
+  float: left;
+  margin-right: 1rem;
+  width: 10rem;
+}
+
+.App .images {
+  float: right;
+  border: 1px solid #f6f6f6;
+}
+
+.App .images img {
+  width: 5rem;
+  margin-right: 1rem;
+}
